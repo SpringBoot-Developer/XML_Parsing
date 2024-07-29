@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+    <students>
+        <student id="1">
+            <name>John Doe</name>
+            <age>20</age>
+            <gender>Male</gender>
+            <major>Computer Science</major>
+            <courses>
+                <course code="CS101" semester="Fall 2023">
+                    <name>Introduction to Computer Science</name>
+                    <grade>A</grade>
+                </course>
+                <course code="CS102" semester="Spring 2024">
+                    <name>Data Structures</name>
+                    <grade>B+</grade>
+                </course>
+            </courses>
+        </student>
+        <student id="2">
+            <name>Jane Smith</name>
+            <age>22</age>
+            <gender>Female</gender>
+            <major>Biology</major>
+            <courses>
+                <course code="BIO101" semester="Fall 2023">
+                    <name>Introduction to Biology</name>
+                    <grade>A-</grade>
+                </course>
+                <course code="BIO102" semester="Spring 2024">
+                    <name>Genetics</name>
+                    <grade>B</grade>
+                </course>
+            </courses>
+        </student>
+        <student id="3">
+            <name>Robert Johnson</name>
+            <age>21</age>
+            <gender>Male</gender>
+            <major>Mathematics</major>
+            <courses>
+                <course code="MATH101" semester="Fall 2023">
+                    <name>Calculus I</name>
+                    <grade>B</grade>
+                </course>
+                <course code="MATH102" semester="Spring 2024">
+                    <name>Linear Algebra</name>
+                    <grade>A</grade>
+                </course>
+            </courses>
+        </student>
+        <student id="4">
+            <name>Emily Davis</name>
+            <age>19</age>
+            <gender>Female</gender>
+            <major>Physics</major>
+            <courses>
+                <course code="PHYS101" semester="Fall 2023">
+                    <name>Introduction to Physics</name>
+                    <grade>A</grade>
+                </course>
+                <course code="PHYS102" semester="Spring 2024">
+                    <name>Quantum Mechanics</name>
+                    <grade>A-</grade>
+                </course>
+            </courses>
+        </student>
+    </students>
+</university>
